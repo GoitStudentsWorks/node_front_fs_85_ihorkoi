@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate persistor={persistor}>
-        <BrowserRouter basename="/project-wt12-front">
+        <BrowserRouter basename="/node_front_fs_85_ihorkoi">
           <ModalProvider>
             <App />
           </ModalProvider>
